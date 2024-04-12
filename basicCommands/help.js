@@ -26,11 +26,11 @@ module.exports = {
           inline: true,
         },
         // Music commands category
-        {
+        /*{
           name: '▶️  Music',
           value: '`play`, `stop`, `history`,`volume`,`pause`,`resume`,`247`',
           inline: true,
-        },
+        },*/
         //fun category
         {
           name: '▶️  Fun',
